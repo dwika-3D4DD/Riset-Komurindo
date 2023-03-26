@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\Dwika document\ROBOTEC\KRTI\AvionicsInstrumentControlDemo\bin\Debug\AvionicsInstrumentControlDemo.exe
+C:\Users\ASUS\Documents\Dwika document\ROBOTEC\KRTI\AvionicsInstrumentControlDemo\bin\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\ASUS\Documents\Dwika document\ROBOTEC\KRTI\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Dwika document\ROBOTEC\KRTI\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+C:\Users\ASUS\Documents\Dwika document\ROBOTEC\KRTI\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.DemoWinow.resources
+C:\Users\ASUS\Documents\Dwika document\ROBOTEC\KRTI\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.Properties.Resources.resources
+C:\Users\ASUS\Documents\Dwika document\ROBOTEC\KRTI\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Dwika document\ROBOTEC\KRTI\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Dwika document\ROBOTEC\KRTI\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.exe
+C:\Users\ASUS\Documents\Dwika document\ROBOTEC\KRTI\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.pdb

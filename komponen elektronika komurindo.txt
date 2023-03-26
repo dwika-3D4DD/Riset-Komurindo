@@ -1,0 +1,22 @@
+List barang elektronika komurindo :
+-HMC5883L
+-MPU6050
+-Ublox Neo-8M
+-Ublox Neo-7M
+-Ublox Neo-6M
+-PTC-08
+-Grid parabolic-quad antenna
+-GY-87
+-ITG 3200 
+-ADXL 345 
+-omni antenna
+-APM 2.5
+-DFROBOT Flymaple
+-IMU 10 DOF
+-Antenna wajan bolic
+-Microstrip antenna
+-GY-91
+-IMU BN0055
+-MS5803
+-GY-67
+-Xbee pro
